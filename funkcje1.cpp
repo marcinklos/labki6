@@ -28,6 +28,5 @@ cout << endl;
 cout << " ";
 }
 cout << "*\n";
-
 return 0;
 }
