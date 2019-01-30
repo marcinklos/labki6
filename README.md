@@ -1,1 +1,3 @@
-# labki6
+Wiktor Kurek
+Patryk Andrzejewski
+Marcin Kłos
